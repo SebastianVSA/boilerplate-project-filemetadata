@@ -1,3 +1,4 @@
+lobal.Blob = require('buffer').Blob;
 var express = require('express');
 var cors = require('cors');
 var multer = require('multer'); 
